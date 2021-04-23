@@ -21,7 +21,7 @@ public class Main {
         System.out.println("Введите c");
         int  c = s.nextInt();
         System.out.println("Объем равен ");
-        System.out.println(a*b*c);
+        System.out.println(a*b*c*1000);
 
     }
 }
