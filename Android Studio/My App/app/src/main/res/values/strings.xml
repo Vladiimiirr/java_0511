@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="yes">Да</string>
+    <string name="correct">Правильно!</string>
+    <string name="incorrect">Неправильно!</string>>
+    <string name="no">Нет</string>
+    <string name="q1">Скорость света C = 299 792 458 м/с?</string>
+    <string name="q2">Земля третья планета от Солнца?</string>
+    <string name="q3">Солнце-это звезда?</string>
+    <string name="q4">Имеет ли Венара астеройдные кольца?</string>
+    <string name="q5">Есть ли кислород на Юпитере?</string>
+    <string name="q6">Земля больше Луны?</string>
+    <string name="q7">Приятежение на Меркурии больше чем на Сатурне?</string>
+    <string name="go">Начать тест сначала</string>
+    <string name="going">Начать тест</string>
+    <string name="test">Тест на тему: космос</string>
+</resources>
